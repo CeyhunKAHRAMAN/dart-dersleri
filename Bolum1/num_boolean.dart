@@ -1,6 +1,6 @@
 void main(List<String> args) {
-  int yas = 34;
+  int yas = 35;
   print(yas);
-  yas = 44;
+  yas = 45;
   print(yas);
 }
